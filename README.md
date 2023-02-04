@@ -4,5 +4,4 @@ Two-screen app that simulates turning on a light bulb, followed by randomized ap
 For example:
 
 
-![IMG_2948](https://user-images.githubusercontent.com/122267988/216790553-11888678-b0de-452a-b2b0-89e078a3d9c0.JPG)
-![IMG_2942 2](https://user-images.githubusercontent.com/122267988/216790557-d7f5fbbc-edeb-4a91-b954-0862f7a6ae77.jpg)
+![IMG_2949](https://user-images.githubusercontent.com/122267988/216790792-4936a889-154d-4c68-a1dc-642a788132f5.jpg)
