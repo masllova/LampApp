@@ -1,5 +1,5 @@
 # lamp
-Two-screen app that simulates turning on a light bulb, followed by randomized appearance of psychologically motivating and supportive phrases, followed by turning off this lamp
+Two-screen app with 1 button that simulates turning on a light bulb, followed by randomized appearance of psychologically motivating and supportive phrases, followed by turning off this lamp
 
 For example:
 
